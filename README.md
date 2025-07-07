@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-berlinbra-binary-reader-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-berlinbra-binary-reader-mcp)
+
 # Binary Reader MCP
 
 A Model Context Protocol server for reading and analyzing binary files. This server provides tools for reading and analyzing various binary file formats, with initial support for Unreal Engine asset files (.uasset).
